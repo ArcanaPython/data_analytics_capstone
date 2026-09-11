@@ -1,5 +1,3 @@
-
-
-url = 'https://data.montgomerycountymd.gov/resource/v76h-r7br.csv?$limit=350000&$offset=0'
+# All code is in the mult_linear_regression.ipynb Jupyter Notebook file
 
 
